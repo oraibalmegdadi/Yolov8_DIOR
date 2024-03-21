@@ -7,6 +7,13 @@ These 20 object classes are: Wind mill, Vehicle, Train station, Tennis court, St
 
 
 
+
+# Yolo (You only look once)
+
+YOLO is an object detection and image segmentation model, was developed by Joseph Redmon and Ali Farhadi at the University of Washington. Launched in 2015, YOLO quickly gained popularity for its high speed and accuracy. is available in various versions, each offering unique features and improvements. 
+![image](https://github.com/oraibalmegdadi/Yolov8_DIOR/assets/4184460/dbbb69b0-76f4-4217-bbcc-1c4855be1ac3) Yolo different version/ Performance [2]
+
+
+
 [1] https://www.sciencedirect.com/science/article/abs/pii/S0924271619302825
-
-
+[2] https://github.com/ultralytics/ultralytics
