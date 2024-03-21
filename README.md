@@ -14,8 +14,11 @@ YOLO is an object detection and image segmentation model, was developed by Josep
 ![image](https://github.com/oraibalmegdadi/Yolov8_DIOR/assets/4184460/dbbb69b0-76f4-4217-bbcc-1c4855be1ac3)
 *Yolo different version/ Performance [2]*
 
+We choose Ultralytics YOLOv8 as a state-of-the-art model that builds upon the success of previous YOLO versions and introduces new features and improvements to further boost performance and flexibility. YOLOv8 is designed to be fast, accurate, and easy to use, making it an excellent choice for a wide range of object detection and tracking, instance segmentation, image classification and pose estimation tasks.
+
 
 
 
 [1] https://www.sciencedirect.com/science/article/abs/pii/S0924271619302825
+
 [2] https://github.com/ultralytics/ultralytics
