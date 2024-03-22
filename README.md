@@ -18,6 +18,17 @@ We choose Ultralytics YOLOv8 as a state-of-the-art model that builds upon the su
 
 
 
+#Traning 
+The dataset splitted to 70% tranning, 15 Validation, 15% test
+The model run for 10 epochs 
+
+#Traning Reuslts
+![results](https://github.com/oraibalmegdadi/Yolov8_DIOR/assets/4184460/2d24d0f9-c626-4438-b04a-452b79e8fbb4)
+
+![image](https://github.com/oraibalmegdadi/Yolov8_DIOR/assets/4184460/325ccd94-5948-457c-9853-b4245c3256c2)
+
+
+
 
 [1] https://www.sciencedirect.com/science/article/abs/pii/S0924271619302825
 
