@@ -2,8 +2,9 @@
 DIOR is a large-scale benchmark dataset for optical remote sensing image target detection proposed on the research paper "**Object detection in optical remote sensing images: A survey and a new benchmark**" [1] . The dataset contains around 20Kimages, with an image size of 800×800 pixels and covers 20 object classes.
 These 20 object classes are: Wind mill, Vehicle, Train station, Tennis court, Storage Tank, Ship, Harbor, Stadium, Ground Track Field, Golf course, Expressway toll station, Expressway service area, Dam, Chimney, Bridge, Overpass, Basketball Court, Baseball field, Airport, Airplane.
 
+# Difference between natural image scene and remote sensing images 
 
-
+![image](https://github.com/oraibalmegdadi/Yolov8_DIOR/assets/4184460/c1ceb556-f7fe-471a-9e48-257ef4e5ca09)
 
 
 
@@ -15,6 +16,7 @@ YOLO is an object detection and image segmentation model, was developed by Josep
 *Yolo different version/ Performance [2]*
 
 We choose Ultralytics YOLOv8 as a state-of-the-art model that builds upon the success of previous YOLO versions and introduces new features and improvements to further boost performance and flexibility. YOLOv8 is designed to be fast, accurate, and easy to use, making it an excellent choice for a wide range of object detection and tracking, instance segmentation, image classification and pose estimation tasks.
+ ![image](https://github.com/oraibalmegdadi/Yolov8_DIOR/assets/4184460/9ba5b4ba-bd44-49e2-9753-91d8d887893e)
 
 
 
