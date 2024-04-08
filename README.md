@@ -31,7 +31,6 @@ The model run for 10 epochs
 
 ![image](https://github.com/oraibalmegdadi/Yolov8_DIOR/assets/4184460/325ccd94-5948-457c-9853-b4245c3256c2)
 
-![confusion_matrix](https://github.com/oraibalmegdadi/Yolov8_DIOR/assets/4184460/6ba75f00-5f82-44e8-ba0e-4679dcdc8e2b)
 
 
 
